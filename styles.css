@@ -30,7 +30,8 @@ body{
 
 .one{
    background-color: #810955;
-  
+   height: 80px;
+   width: 500px;
    padding: 10px;
    font-size: 15px;
    position: relative;
@@ -45,7 +46,6 @@ body{
 .two{
   background-color: white;
   width: 600px;
-  height: 900px;
   position: relative;
   top: 80px;
   padding: 50px;
