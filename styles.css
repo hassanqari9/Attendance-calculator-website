@@ -5,7 +5,7 @@ body{
 .counter{
   position: relative;
   z-index: 2;
-  top: 800px;
+  top: 100px;
 }
 .box1{
   position: fixed;
