@@ -1,0 +1,116 @@
+body{
+  font-family: fantasy;
+}
+
+.counter{
+  position: relative;
+  z-index: 2;
+  top: 800px;
+}
+.box1{
+  position: fixed;
+  left: 0px;
+  top: 0px;
+  z-index: 0;
+  width: 1800px;
+  height: 2200px;
+  /* width: 1700px;
+  height: 1000px; */
+
+
+}
+
+@media (max-width:900px)
+{
+  .box1{
+    width: 1800px;
+    height: 2200px;
+  }
+}
+
+.one{
+   background-color: #810955;
+   height: 80px;
+   width: 500px;
+   padding: 10px;
+   font-size: 15px;
+   position: relative;
+   top: 130px;
+   z-index: 1
+}
+
+.text1{
+  color: white;
+}
+
+.two{
+  background-color: white;
+  width: 600px;
+  height: 700px;
+  position: relative;
+  top: 80px;
+  padding: 50px;
+
+}
+#criteria{
+  border: solid grey;
+  border-style: hidden;
+  border-bottom: 1px solid black;
+  margin: 5px;
+  height: 30px;
+}
+
+#classes{
+  border: solid grey;
+  border-style: hidden;
+  border-bottom: 1px solid black;
+  margin: 5px;
+  height: 30px;
+}
+
+#total{
+  border: solid grey;
+  border-style: hidden;
+  border-bottom: 1px solid black;
+  margin: 5px;
+  height: 30px;
+}
+
+button{
+  margin-top: 30px;
+  height: 40px;
+  width: 100px;
+  background-color: #810955;
+  color: white;
+  border-radius: 10px;
+  margin: 40px 0 20px 0;
+}
+
+form{
+  margin-top: 80px;
+}
+
+a{
+  text-decoration: none;
+  color: #810955;
+}
+
+.text2{
+  margin-top: 20px;
+}
+.text3{
+  color: #810955
+}
+
+h1{
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+h2{
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+.font{
+  margin-top: 0px;
+  font-family: sans-serif;
+}
