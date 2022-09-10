@@ -1,2 +1,4 @@
-# Attendance-calculator-website:
-Website Link: https://hassanqari9.github.io/Attendance-calculator-website/
+# Project-Attendance:
+https://aarishshah.github.io/Project-Attendance/
+
+https://etisalat.digital/project/attendance/
