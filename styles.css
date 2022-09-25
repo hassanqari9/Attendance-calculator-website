@@ -29,13 +29,14 @@ body{
 }
 
 .one{
-   background-color: #810955;
+   background-color: #42855B;
    width: 500px;
    padding: 10px;
    font-size: 15px;
    position: relative;
    top: 130px;
    z-index: 1
+
 }
 
 .text1{
@@ -48,6 +49,7 @@ body{
   position: relative;
   top: 80px;
   padding: 50px;
+  border-radius: 15%;
 
 }
 #criteria{
@@ -78,7 +80,7 @@ button{
   margin-top: 30px;
   height: 40px;
   width: 100px;
-  background-color: #810955;
+  background-color: #42855B;
   color: white;
   border-radius: 10px;
   margin: 40px 0 20px 0;
@@ -90,14 +92,14 @@ form{
 
 a{
   text-decoration: none;
-  color: #810955;
+  color: #42855B;
 }
 
 .text2{
   margin-top: 20px;
 }
 .text3{
-  color: #810955
+  color: #42855B;
 }
 
 h1{
