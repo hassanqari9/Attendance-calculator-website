@@ -12,12 +12,6 @@ body{
   left: 0px;
   top: 0px;
   z-index: 0;
-  width: 1800px;
-  height: 2200px;
-  /* width: 1700px;
-  height: 1000px; */
-
-
 }
 
 @media (max-width:900px)
