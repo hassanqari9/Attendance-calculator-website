@@ -12,8 +12,8 @@ body{
   @keyframes mymove0{
     0%   {left:-1000px; top:30px;}
     25%  {left:2000px; top:30px;}
-    50%  {left:2000px; top:1500px;}
-    75%  {left:-1000px; top:1500px;}
+    50%  {left:2000px; top:1100px;}
+    75%  {left:-1000px; top:1100px;}
     100% {left:-1000px; top:30px;}
 /*     0%   {left:350px; top:30px;}
     25%  {left:1300px; top:30px;}
@@ -105,11 +105,6 @@ body{
   padding: 50px;
   border-radius: 0;
   box-shadow: 0px 5px 20px 20px white;
-  animation: mymove1 5s infinite;
-  
-}
-@keyframes mymove1 {
-  0% {}
 }
 
 #criteria{
