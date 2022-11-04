@@ -1,5 +1,8 @@
 body{
   font-family: fantasy;
+  background-image: url("images/plex.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 @media only screen and (max-width: 600px) {
@@ -43,13 +46,6 @@ body{
     75%  {left:-1000px; top:900px;}
     100% {left:-1000px; top:30px;}
   }
-  body{
-  font-family: fantasy;
-  background-image: url("images/plex.jpg");
-  background-repeat: no-repeat;
-  background-size: cover;
-  
-}
 }
 
 
