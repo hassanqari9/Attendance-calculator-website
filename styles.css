@@ -10,16 +10,16 @@ body{
     background-image: url("images/plex2.jpg");
   } */
   @keyframes mymove0{
-/*     0%   {left:-1000px; top:30px;}
+    0%   {left:-1000px; top:30px;}
     25%  {left:2000px; top:30px;}
     50%  {left:2000px; top:1500px;}
     75%  {left:-1000px; top:1500px;}
-    100% {left:-1000px; top:30px;} */
-    0%   {left:350px; top:30px;}
+    100% {left:-1000px; top:30px;}
+/*     0%   {left:350px; top:30px;}
     25%  {left:1300px; top:30px;}
     50%  {left:1300px; top:860px;}
     75%  {left:350px; top:860px;}
-    100% {left:350px; top:30px;}
+    100% {left:350px; top:30px;} */
   }
 }
 
@@ -47,8 +47,8 @@ body{
     100% {left:350px; top:30px;} */
     0%   {left:-1000px; top:30px;}
     25%  {left:2000px; top:30px;}
-    50%  {left:2000px; top:860px;}
-    75%  {left:-1000px; top:860px;}
+    50%  {left:2000px; top:1300px;}
+    75%  {left:-1000px; top:1300px;}
     100% {left:-1000px; top:30px;}
   }
 }
