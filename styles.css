@@ -45,8 +45,8 @@ body{
     50%  {left:1300px; top:860px;}
     75%  {left:350px; top:860px;}
     100% {left:350px; top:30px;} */
-    0%   {left:-1000px; top:25px;}
-    25%  {left:2000px; top:25px;}
+    0%   {left:-1000px; top:20px;}
+    25%  {left:2000px; top:20px;}
     50%  {left:2000px; top:860px;}
     75%  {left:-1000px; top:860px;}
     100% {left:-1000px; top:30px;}
