@@ -12,8 +12,8 @@ body{
   @keyframes mymove0{
     0%   {left:-1000px; top:30px;}
     25%  {left:2000px; top:30px;}
-    50%  {left:2000px; top:1100px;}
-    75%  {left:-1000px; top:1100px;}
+    50%  {left:2000px; top:1500px;}
+    75%  {left:-1000px; top:1500px;}
     100% {left:-1000px; top:30px;}
   }
 }
