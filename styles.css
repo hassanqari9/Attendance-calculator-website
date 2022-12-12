@@ -5,53 +5,7 @@ body{
   background-size: cover;
 }
 
-@media only screen and (max-width: 600px) {
-/*   body {
-    background-image: url("images/plex2.jpg");
-  } */
-  @keyframes mymove0{
-    0%   {left:-1000px; top:30px;}
-    25%  {left:2000px; top:30px;}
-    50%  {left:2000px; top:1500px;}
-    75%  {left:-1000px; top:1500px;}
-    100% {left:-1000px; top:30px;}
-/*  0%   {left:350px; top:30px;}
-    25%  {left:1300px; top:30px;}
-    50%  {left:1300px; top:860px;}
-    75%  {left:350px; top:860px;}
-    100% {left:350px; top:30px;} */
-  }
-}
 
-.zero{
-  color: aliceblue;
-  width: 30px;
-  height: 30px;
-  z-index: 2;
-  background-color: aliceblue;
-  border-radius: 100%;
-  position: fixed;
-  left: 30px;
-  top: 30px;
-  box-shadow:5px 10px 10px 20px white;
-  animation: mymove0 5s infinite;
-}
-
-@media only screen and (min-width: 601px)
-{
-  @keyframes mymove0{
-    /* 0%   {left:350px; top:30px;}
-    25%  {left:1300px; top:30px;}
-    50%  {left:1300px; top:860px;}
-    75%  {left:350px; top:860px;}
-    100% {left:350px; top:30px;} */
-    0%   {left:-1000px; top:20px;}
-    25%  {left:2000px; top:20px;}
-    50%  {left:2000px; top:1000px;}
-    75%  {left:-1000px; top:1000px;}
-    100% {left:-1000px; top:30px;}
-  }
-}
 
 
 .counter{
